@@ -40,6 +40,5 @@ Want to contribute? Great!
 just make an issue and we'll respond
 or better just make a PR
 
-# Contributors
+# Contributor
 - [Shritesh](https://github.com/Shritesh99)
-
